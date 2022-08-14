@@ -3,7 +3,7 @@
    public class Ball extends Sprite { // inherits from sprite class
        private static final int BALL_WIDTH = 25;
        private static final int BALL_HEIGHT = 25;
-       private static final Color BALL_COLOUR = Color.BLACK;
+       private static final Color BALL_COLOUR = Color.GREEN;
        //
     // adding a line
    
@@ -13,6 +13,5 @@
           setColour(BALL_COLOUR);
           setInitialPosition(panelWidth / 2 - (getWidth() / 2), panelHeight / 2 - (getHeight() / 2));
           resetToInitialPosition(); // reset position of the ball
-          // hahjsbajsbhasja	
       }
  }
