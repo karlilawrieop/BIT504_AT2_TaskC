@@ -3,7 +3,7 @@
    public class Ball extends Sprite { // inherits from sprite class
        private static final int BALL_WIDTH = 25;
        private static final int BALL_HEIGHT = 25;
-       private static final Color BALL_COLOUR = Color.BLACK;
+       private static final Color BALL_COLOUR = Color.GREEN;
        //
     // adding a line
    
