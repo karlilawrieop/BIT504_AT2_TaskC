@@ -12,7 +12,6 @@
           setHeight(BALL_HEIGHT);
           setColour(BALL_COLOUR);
           setInitialPosition(panelWidth / 2 - (getWidth() / 2), panelHeight / 2 - (getHeight() / 2));
-          resetToInitialPosition(); // reset position of the ball
-          // hahjsbajsbhasja	
+          resetToInitialPosition(); // reset position of the ball	
       }
  }
